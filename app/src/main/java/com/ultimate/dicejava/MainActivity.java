@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     case 1:
                         diceImg.setImageResource(R.drawable.face_two);
+                        System.out.println("Practice");
                         break;
                     case 2:
                         diceImg.setImageResource(R.drawable.face_three);
